@@ -1,6 +1,7 @@
 # The hsntawanaNFT Token
 
 This is a demo app on how to deploy your own NFT to the Ethetereum Blockchain. The full article is available on the LogRocket blog - How to deploy your own NFT with JavaScript.
+## Blog rocket step by step guide : https://blog.logrocket.com/how-to-create-nfts-with-javascript/
 
 ![](https://ipfs.io/ipfs/QmYtPjW13RiaVvq56dr4FBD3txv4VQaKH6SxsnKFfkhz9g)
 
@@ -8,7 +9,7 @@ This is a demo app on how to deploy your own NFT to the Ethetereum Blockchain. T
 
 **To get started, follow the instructions below**
 
-- Clone this repo using `git clone https://github.com/onedebos/the-osun-river-nft.git`
+- Clone this repo using `git clone https://github.com/chowais181/How-to-create-NFTs-with-JavaScript`
 
 - Create a `.env` file. Then, follow the steps in the tutorial to obtain your
   - METAMASK_PRIVATE_KEY
